@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikgit789&label=Profile%20views&color=0e75b6&style=flat" alt="ritikgit789" /> </p>
 
 # 💫 About Me:
-Hi, I'm Ritik Maity <br>I’m currently working on AI frameworks and ethics, building Gen-AI and scalable backend applications. Worked at 3+ startups <br>📫 How to reach me --- ritikmaity4@gmail.com<br>⚡ Fun fact --- I am an introvert guy😅<br>
+Hi, I'm Ritik Maity <br>I’m currently working on building Gen-AI and scalable backend applications. Worked at 3+ startups <br>📫 How to reach me --- ritikmaity4@gmail.com<br>⚡ Fun fact --- I am an introvert guy😅<br>
 
 
 ## 🌐 Socials:
